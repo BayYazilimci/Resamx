@@ -29,4 +29,4 @@
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=renanuya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Resamx/Resamx/blob/output/github-contribution-grid-snake.gif)
