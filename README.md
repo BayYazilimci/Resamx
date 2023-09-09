@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
 
-<h3 align="center">Hello, my name is Ali Renan Uyanık and I am 19 years old. I am currently taking a cross-platform mobile application development training program with Flutter by Google Game and App Academy. Additionally, I am a part of the Young Guru Academy Skills For Future program and am a project coordinator at GDSC (Google Developer Student Clubs). I am also a member of the Amazon Games content creator program.</h3>
+<h3 align="center">Hello, my name is İnanç Yıldız and I am 18 years old. I am currently studying full stack web development. I've also been writing Lua for over 3 years.</h3>
 <br>
 
 </div>
