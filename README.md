@@ -6,7 +6,7 @@
 <a  href="mailto:Resamxbox@gmail.com">
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
-<a href="https://[bayyazilimci.com](https://bayyazilimci.com/)">
+<a href="https://www.bayyazilimci.com">
 <img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
 
@@ -20,5 +20,3 @@
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=renanuya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=renanuya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </div>
-
-![snake gif](https://github.com/Resamx/Resamx/blob/output/github-contribution-grid-snake.gif)
